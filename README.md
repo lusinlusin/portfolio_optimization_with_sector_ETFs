@@ -4,10 +4,10 @@ English | [简体中文](README.zh-CN.md)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![CVXPY](https://img.shields.io/badge/CVXPY-Convex%20Optimization-1F6FEB)
-![Data](https://img.shields.io/badge/Data-11%20SPDR%20Sector%20ETFs%20%7C%202019%E2%80%932025-lightgrey)
-![Backtest](https://img.shields.io/badge/Backtest-Rolling%20Out--of--Sample%20%7C%20No%20Look--Ahead-0A7D33)
+![MVO](https://img.shields.io/badge/MVO-Mean--Variance%20Optimization-8250DF)
+![Topic](https://img.shields.io/badge/Topic-Asset%20Allocation-orange)
 ![Tests](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Research%20Project-orange)
+![Backtest](https://img.shields.io/badge/Backtest-Rolling%20Out--of--Sample%20%7C%20No%20Look--Ahead-0A7D33)
 
 What happens to the textbook portfolio model when its inputs have to be estimated, and which
 of the standard remedies deal with the cause rather than the symptom? A rolling

@@ -4,10 +4,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![CVXPY](https://img.shields.io/badge/CVXPY-Convex%20Optimization-1F6FEB)
-![Data](https://img.shields.io/badge/Data-11%20SPDR%20Sector%20ETFs%20%7C%202019%E2%80%932025-lightgrey)
-![Backtest](https://img.shields.io/badge/Backtest-Rolling%20Out--of--Sample%20%7C%20No%20Look--Ahead-0A7D33)
+![MVO](https://img.shields.io/badge/MVO-Mean--Variance%20Optimization-8250DF)
+![Topic](https://img.shields.io/badge/Topic-Asset%20Allocation-orange)
 ![Tests](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Research%20Project-orange)
+![Backtest](https://img.shields.io/badge/Backtest-Rolling%20Out--of--Sample%20%7C%20No%20Look--Ahead-0A7D33)
 
 教科书里的组合模型，在输入只能靠估计时会发生什么？常见的几种补救方法里，哪些治的是病根，哪些只是压住了症状？本研究用 11 只 SPDR 标普 500 行业 ETF，在 2019–2025 年的数据上做滚动样本外检验。
 
