@@ -64,7 +64,7 @@ of returns.
    5 of them are independent, so
 
    ```math
-   \operatorname{rank}(\hat{Q}) \;\le\; L - 1 \;=\; 5 \;<\; 11
+   \text{rank}(\hat{Q}) \;\le\; L - 1 \;=\; 5 \;<\; 11
    ```
 
 2. **So `Q̂` is singular: it has no inverse.**
@@ -133,7 +133,7 @@ a thousandfold.
    The standard error of an estimated mean is
 
    ```math
-   \operatorname{SE}(\hat{\mu}_i) = \frac{\sigma_i}{\sqrt{L}}
+   \text{SE}(\hat{\mu}_i) = \frac{\sigma_i}{\sqrt{L}}
    ```
 
    It shrinks only with the square root of the amount of data.

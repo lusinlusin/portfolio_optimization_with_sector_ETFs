@@ -58,7 +58,7 @@ x^\star = \frac{1}{2\lambda}\, Q^{-1}\left(\mu - \gamma e\right),
    `Q̂` 是一个 11 × 11 的矩阵，却只由 6 个观测构造出来。减去均值之后，其中只有 5 个是独立的，所以
 
    ```math
-   \operatorname{rank}(\hat{Q}) \;\le\; L - 1 \;=\; 5 \;<\; 11
+   \text{rank}(\hat{Q}) \;\le\; L - 1 \;=\; 5 \;<\; 11
    ```
 
 2. **所以 `Q̂` 是奇异矩阵，不可逆。**
@@ -116,7 +116,7 @@ x_1 - x_2 \;=\; \frac{\mu_1 - \mu_2}{2\lambda\,\sigma^2\,(1 - \rho)}
    估计均值的标准误是
 
    ```math
-   \operatorname{SE}(\hat{\mu}_i) = \frac{\sigma_i}{\sqrt{L}}
+   \text{SE}(\hat{\mu}_i) = \frac{\sigma_i}{\sqrt{L}}
    ```
 
    它只随数据量的平方根下降。
