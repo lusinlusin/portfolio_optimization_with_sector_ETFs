@@ -482,7 +482,7 @@ Net-of-cost annualized Sharpe ratio:
    Severe at every window tested. More data makes it smaller and never makes it go away.
 2. **Which remedies contain it?**
    Box robustness, Black–Litterman, risk parity and equal weight. Ellipsoidal robustness
-   does not. The on-paper analysis predicted all five outcomes.
+   does not. The on-paper analysis accounts for all five outcomes.
 3. **What does stability cost?**
    The simplest portfolios are also the cheapest to run. Among the rest, Black–Litterman
    pays in turnover and box robustness pays in caution.
