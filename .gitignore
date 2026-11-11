@@ -1,0 +1,15 @@
+# Private working material (kept locally, not part of the public study)
+/docs/
+/Project_Report.docx
+/STUDY_GUIDE.md
+/project_progress_portfolio_optimization_with_sector_ETFs.md
+
+# Python bytecode
+__pycache__/
+
+# OS / IDE files
+.DS_Store
+.idea/
+
+# Personal walkthrough copy of backtest.py
+/src/review.py

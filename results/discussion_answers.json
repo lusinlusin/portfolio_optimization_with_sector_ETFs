@@ -1,0 +1,36 @@
+{
+  "6": {
+    "best_sharpe": "risk_parity",
+    "best_mean_net": "equal_weight",
+    "highest_turnover": "black_litterman",
+    "most_tc_sensitive": "black_litterman",
+    "smallest_max_drawdown": "risk_parity",
+    "unstable": [
+      "mvo",
+      "robust_ellipsoidal_90",
+      "robust_ellipsoidal_95",
+      "robust_ellipsoidal_99"
+    ]
+  },
+  "12": {
+    "best_sharpe": "black_litterman",
+    "best_mean_net": "black_litterman",
+    "highest_turnover": "black_litterman",
+    "most_tc_sensitive": "black_litterman",
+    "smallest_max_drawdown": "risk_parity",
+    "unstable": [
+      "mvo",
+      "robust_ellipsoidal_90",
+      "robust_ellipsoidal_95",
+      "robust_ellipsoidal_99"
+    ]
+  },
+  "24": {
+    "best_sharpe": "equal_weight",
+    "best_mean_net": "equal_weight",
+    "highest_turnover": "mvo",
+    "most_tc_sensitive": "mvo",
+    "smallest_max_drawdown": "black_litterman",
+    "unstable": []
+  }
+}

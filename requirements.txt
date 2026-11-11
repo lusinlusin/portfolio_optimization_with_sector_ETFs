@@ -1,0 +1,12 @@
+# Runtime dependencies, pinned to the tested environment (Python 3.9).
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+cvxpy==1.7.5
+clarabel==0.11.1      # conic solver backend invoked by cvxpy (MVO QP / SOCP / RP log-term)
+matplotlib==3.9.4     # figures.py
+
+yfinance==1.2.0       # only needed for `python run.py --download` (price download)
+
+# Development / testing
+pytest==8.4.2
