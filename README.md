@@ -2,6 +2,13 @@ English | [简体中文](README.zh-CN.md)
 
 # When Mean-Variance Optimization Meets Real Data
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![CVXPY](https://img.shields.io/badge/CVXPY-Convex%20Optimization-1F6FEB)
+![Data](https://img.shields.io/badge/Data-11%20SPDR%20Sector%20ETFs%20%7C%202019%E2%80%932025-lightgrey)
+![Backtest](https://img.shields.io/badge/Backtest-Rolling%20Out--of--Sample%20%7C%20No%20Look--Ahead-0A7D33)
+![Tests](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Research%20Project-orange)
+
 What happens to the textbook portfolio model when its inputs have to be estimated, and which
 of the standard remedies deal with the cause rather than the symptom? A rolling
 out-of-sample study on the eleven SPDR S&P 500 sector ETFs, 2019–2025.
